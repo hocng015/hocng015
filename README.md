@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hocng015/hocng015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Dalamud plugins for FFXIV.
 
-Here are some ideas to get you started:
+### Projects
+- **[MoveMeXiv](https://github.com/hocng015/MoveMeXiv-Release)** — Character movement, teleportation & world travel + Discord bot
+- **[QuickSwitch](https://github.com/hocng015/QuickSwitch-Release)** — Fast FFXIV character switching
+- **[Expedition](https://github.com/hocng015/Expedition-xiv)** — Automated recipe workflow orchestrator
+- **[PFRemote](https://github.com/hocng015/PFRemote-Repo)** — Auto-refresh party finder recruitment
+- **[Tsunippy](https://github.com/hocng015/Tsunippy)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support
+If you enjoy my work, consider supporting me!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/tsukio_mochi6767)
